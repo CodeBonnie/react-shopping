@@ -1,0 +1,12 @@
+.item
+{
+	background-color: rgb(57, 57, 57);
+	color: white;
+	padding: 35px
+}
+
+.item:hover
+{
+	background-color: white;
+	color: black;
+}
